@@ -28,7 +28,8 @@
 
 ### :man_technologist: About Me :
 
-I am an Android and Flutter Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hungary.
+- I'm an Android and Flutter Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hungary.&nbsp;
+- I'm working for <a href="https://github.com/offsite-solutions">Offsite Solution</a> and currently developing the GreenGo Mobile Application
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile application.
 
