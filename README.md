@@ -22,7 +22,7 @@
 
 <div align="center">
 <h1>
- www.merenyimiklos.github.io
+ <a href="https://merenyimiklos.github.io/">Portfólió</a>
 </h1>
 </div>
 
